@@ -32,11 +32,7 @@ Setup Instructions
 ```bash
 git clone https://github.com/Afaks-11/Backen-Wizard-HNG-Stage-0-Task.git
 cd Backen-Wizard-HNG-Stage-0-Task
-
+```
 2 npm install
 3 create an env file for the PORT number or || 8000
 4 npm start
-```
-
-Github repo 
-https://github.com/Afaks-11/Backen-Wizard-HNG-Stage-0-Task.git
