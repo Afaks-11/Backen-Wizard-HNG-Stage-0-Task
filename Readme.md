@@ -25,15 +25,18 @@ express-rate-limit: Prevent too many requests
 -Devdependencies
 nodemon: to watch for changes
 
-##### Setup Instructions
+Setup Instructions
 
-- Clone the Repository
+1 Clone the Repository
 
 ```bash
 git clone https://github.com/Afaks-11/Backen-Wizard-HNG-Stage-0-Task.git
 cd Backen-Wizard-HNG-Stage-0-Task
 
-- npm install
-- create an env file for the PORT nuber or || 8000
--npm start
+2 npm install
+3 create an env file for the PORT nuber or || 8000
+4 npm start
 ```
+
+Github repo 
+https://github.com/Afaks-11/Backen-Wizard-HNG-Stage-0-Task.git
