@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple RESTful API built with Node.js and Express.js that returns my personal profile information along with a andom cat fact fetched dynamically from the [Cat Facts API](https://catfact.ninja/fact).
+This is a simple RESTful API built with Node.js and Express.js that returns my personal profile information along with a random cat fact fetched dynamically from the [Cat Facts API](https://catfact.ninja/fact).
 
 ### Features
 
@@ -34,7 +34,7 @@ git clone https://github.com/Afaks-11/Backen-Wizard-HNG-Stage-0-Task.git
 cd Backen-Wizard-HNG-Stage-0-Task
 
 2 npm install
-3 create an env file for the PORT nuber or || 8000
+3 create an env file for the PORT number or || 8000
 4 npm start
 ```
 
